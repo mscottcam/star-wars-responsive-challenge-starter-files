@@ -1,0 +1,14 @@
+.row {
+  max-width: 1000px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 0 auto;
+}
+
+.card {
+	width: 100%;
+}
+
+img {
+	width: 100%;
+}
